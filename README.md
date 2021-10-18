@@ -16,3 +16,5 @@ Der skal laves en form for tæller der kan registrere. Derfor skal der laves et 
 Der skal være en statistik funktion som viser antallet af person som er gået ind i SKP.
 
 Alle data skal kunne aflæses på en App, egnet til mobil
+
+Som en ekstra feature kan registrering af folk som kommer ind i SKP automatisk starter en velkomstbesked på Infoskærm.
